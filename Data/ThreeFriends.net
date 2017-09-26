@@ -1,0 +1,8 @@
+*Vertices 3
+1 "John"
+2 "Sue"
+3 "Sandy"
+*Edges
+1 2
+2 3
+3 1
